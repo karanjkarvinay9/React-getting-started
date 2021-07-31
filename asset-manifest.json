@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-getting-started/static/css/main.a617e044.chunk.css",
+    "main.js": "/React-getting-started/static/js/main.d79a533c.chunk.js",
+    "main.js.map": "/React-getting-started/static/js/main.d79a533c.chunk.js.map",
+    "runtime-main.js": "/React-getting-started/static/js/runtime-main.e67d2d17.js",
+    "runtime-main.js.map": "/React-getting-started/static/js/runtime-main.e67d2d17.js.map",
+    "static/js/2.29635ff3.chunk.js": "/React-getting-started/static/js/2.29635ff3.chunk.js",
+    "static/js/2.29635ff3.chunk.js.map": "/React-getting-started/static/js/2.29635ff3.chunk.js.map",
+    "static/js/3.25041a8b.chunk.js": "/React-getting-started/static/js/3.25041a8b.chunk.js",
+    "static/js/3.25041a8b.chunk.js.map": "/React-getting-started/static/js/3.25041a8b.chunk.js.map",
+    "index.html": "/React-getting-started/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/React-getting-started/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.29635ff3.chunk.js.LICENSE.txt": "/React-getting-started/static/js/2.29635ff3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/React-getting-started/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e67d2d17.js",
+    "static/js/2.29635ff3.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d79a533c.chunk.js"
+  ]
+}
